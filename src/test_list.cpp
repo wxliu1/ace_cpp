@@ -28,7 +28,12 @@ int main(char *argc, char **argv)
         myList.remove(2); // 删除值为2的所有元素
     */
     
-    std::list<int> myList = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14};
+    std::list<int> myList = {16, 1, 2, 3, 4, 5, 6, 27, 8, 9, 10, 11, 13, 14};
+
+    // 使用remove_if()函数，该函数接受一个谓词作为参数，在list中找到所有满足谓词条件的元素并删除。例如，删除所有大于10的元素可以使用以下代码：
+    myList.remove_if([](const int &value)
+                   { return value > 10; });
+/*
     for (auto it = myList.begin(); it != myList.end(); ++it)
     {
         if (*it == 8)
@@ -45,16 +50,18 @@ int main(char *argc, char **argv)
     }
 
     std::cout << std::endl;
-/*
+*/
+
+
     for (auto it = myList.begin(); it != myList.end(); ++it)
     {
         std::cout << *it << " ";
-        if(*it == 14) break ;
-        ++it;
+        // if(*it == 14) break ;
+        // ++it;
     }
 
     std::cout << std::endl;
-*/
+
 
 /*
     for (auto it = myList.begin(); it != myList.end();)
@@ -68,10 +75,7 @@ int main(char *argc, char **argv)
             ++it;
         }
     }
-
-    // 使用remove_if()函数，该函数接受一个谓词作为参数，在list中找到所有满足谓词条件的元素并删除。例如，删除所有大于10的元素可以使用以下代码：
-    myList.remove_if([](const int &value)
-                   { return value > 10; });
 */
+
     return 0;
 }
