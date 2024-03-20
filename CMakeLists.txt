@@ -25,11 +25,20 @@ SET(CMAKE_CXX_FLAGS_DEBUG "$ENV{CXXFLAGS} -O0 -Wall -g -ggdb")
 # SET(CMAKE_BUILD_TYPE "Release")
 # set(CMAKE_CXX_FLAGS_RELEASE "-O3 -DNDEBUG")
 
+find_package(TBB REQUIRED)
+
 add_executable(test_list #src/main.cpp
   #${CMAKE_CURRENT_SOURCE_DIR}/src/wx_utility/compile_date_time.cpp
   # ${CMAKE_CURRENT_SOURCE_DIR}/src/wx_yaml_io.cpp
   src/test_list.cpp
 )
+
+add_executable(test_parallel_reduce
+  ${CMAKE_CURRENT_SOURCE_DIR}/src/test_parallel_reduce.cpp
+)
+
+target_link_libraries(test_parallel_reduce TBB::tbb)
+
 
 # add_executable(epoll_server_test src/epoll_server_test.cpp)
 
