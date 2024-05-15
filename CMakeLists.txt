@@ -26,6 +26,7 @@ SET(CMAKE_CXX_FLAGS_DEBUG "$ENV{CXXFLAGS} -O0 -Wall -g -ggdb")
 # set(CMAKE_CXX_FLAGS_RELEASE "-O3 -DNDEBUG")
 
 find_package(TBB REQUIRED)
+find_package(Eigen3 REQUIRED)
 
 add_executable(test_list #src/main.cpp
   #${CMAKE_CURRENT_SOURCE_DIR}/src/wx_utility/compile_date_time.cpp
@@ -39,6 +40,17 @@ add_executable(test_parallel_reduce
 
 target_link_libraries(test_parallel_reduce TBB::tbb)
 
+
+add_executable(test_eigen
+  ${CMAKE_CURRENT_SOURCE_DIR}/src/test_eigen.cpp
+)
+
+target_link_libraries(test_eigen Eigen3::Eigen)
+
+
+add_executable(test_normal_distribution
+  src/test_normal_distribution.cpp
+)
 
 # add_executable(epoll_server_test src/epoll_server_test.cpp)
 
