@@ -1,4 +1,35 @@
 
+// reference: http://www.cplusplus.com/reference/random/normal_distribution/
+/*
+
+class template
+<random>
+std::normal_distribution
+template <class RealType = double> class normal_distribution;
+Normal distribution
+Random number distribution that produces floating-point values according to a normal distribution, which is described by the following probability density function:
+
+
+
+This distribution produces random numbers around the distribution mean (μ) with a specific standard deviation (σ).
+
+The normal distribution is a common distribution used for many kind of processes, since it is the distribution that the aggregation of a large number of independent random variables approximates to, when all follow the same distribution (no matter which distribution).
+
+The distribution parameters, mean (μ) and stddev (σ), are set on construction.
+
+To produce a random value following this distribution, call its member function operator().
+
+Template parameters
+RealType
+A floating-point type. Aliased as member type result_type.
+By default, this is double.
+
+*/
+
+
+
+
+
 // normal_distribution
 #include <iostream>
 #include <string>
