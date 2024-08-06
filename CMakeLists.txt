@@ -52,6 +52,10 @@ add_executable(test_normal_distribution
   src/test_normal_distribution.cpp
 )
 
+add_executable(test_cast
+  src/test_cast.cpp
+)
+
 # add_executable(epoll_server_test src/epoll_server_test.cpp)
 
 # target_link_libraries(ace_cpp ${OpenCV_LIBS} yaml-cpp jsoncpp mysqlclient tinyxml) # '-lpthread'
