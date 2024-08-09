@@ -60,6 +60,12 @@ add_executable(test_container
   src/test_container.cpp
 )
 
+add_executable(test_quaternion
+  ${CMAKE_CURRENT_SOURCE_DIR}/src/test_quaternion.cpp
+)
+
+target_link_libraries(test_quaternion Eigen3::Eigen)
+
 # add_executable(epoll_server_test src/epoll_server_test.cpp)
 
 # target_link_libraries(ace_cpp ${OpenCV_LIBS} yaml-cpp jsoncpp mysqlclient tinyxml) # '-lpthread'
