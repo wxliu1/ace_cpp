@@ -66,6 +66,13 @@ add_executable(test_quaternion
 
 target_link_libraries(test_quaternion Eigen3::Eigen)
 
+
+add_executable(test_tbb_concurrent_bounded_queue
+  ${CMAKE_CURRENT_SOURCE_DIR}/src/test_tbb_concurrent_bounded_queue.cpp
+)
+
+target_link_libraries(test_tbb_concurrent_bounded_queue TBB::tbb)
+
 # add_executable(epoll_server_test src/epoll_server_test.cpp)
 
 # target_link_libraries(ace_cpp ${OpenCV_LIBS} yaml-cpp jsoncpp mysqlclient tinyxml) # '-lpthread'
