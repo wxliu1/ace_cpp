@@ -28,6 +28,12 @@ SET(CMAKE_CXX_FLAGS_DEBUG "$ENV{CXXFLAGS} -O0 -Wall -g -ggdb")
 find_package(TBB REQUIRED)
 find_package(Eigen3 REQUIRED)
 
+include_directories(
+  /root/SETUP/gperftools_install/include
+)
+
+link_directories(/root/SETUP/gperftools_install/lib)
+
 add_executable(test_list #src/main.cpp
   #${CMAKE_CURRENT_SOURCE_DIR}/src/wx_utility/compile_date_time.cpp
   # ${CMAKE_CURRENT_SOURCE_DIR}/src/wx_yaml_io.cpp
@@ -72,6 +78,12 @@ add_executable(test_tbb_concurrent_bounded_queue
 )
 
 target_link_libraries(test_tbb_concurrent_bounded_queue TBB::tbb)
+
+add_executable(test_gperftools
+  ${CMAKE_CURRENT_SOURCE_DIR}/src/test_gperftools.cpp
+)
+
+target_link_libraries(test_gperftools -lprofiler)
 
 # add_executable(epoll_server_test src/epoll_server_test.cpp)
 
