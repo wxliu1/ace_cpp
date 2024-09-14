@@ -102,9 +102,11 @@ option(DEBUG_TSAN "ThreadSanitizer, Debug for data race" OFF) # ON or OFF
 ############# Compile flags ###############
 if (DEBUG_ASAN)
     SET(CMAKE_BUILD_TYPE Debug)
-    set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -fsanitize=address -fno-omit-frame-pointer")
-    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsanitize=address -fno-omit-frame-pointer")
-    set(CMAKE_LD_FLAGS "${CMAKE_LD_FLAGS} -fsanitize=address")
+    # set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -fsanitize=address -fno-omit-frame-pointer")
+    # set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsanitize=address -fno-omit-frame-pointer")
+    # set(CMAKE_LD_FLAGS "${CMAKE_LD_FLAGS} -fsanitize=address")
+
+    SET(CMAKE_CXX_FLAGS_DEBUG "-g -fsanitize=address -fno-omit-frame-pointer")
 endif ()
 
 if (DEBUG_TSAN)
