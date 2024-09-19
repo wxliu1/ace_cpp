@@ -29,3 +29,10 @@ add_executable(test1
 )
 
 target_link_libraries(test1 -ltcmalloc)
+
+
+add_executable(test2
+  ${CMAKE_CURRENT_SOURCE_DIR}/src/test2.cpp
+)
+
+target_link_libraries(test2 -ltcmalloc -lpthread)
