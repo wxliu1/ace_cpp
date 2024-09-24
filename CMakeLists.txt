@@ -21,14 +21,16 @@ endif()
 message(STATUS "CMAKE_CXX_FLAGS_DEBUG=${CMAKE_CXX_FLAGS_DEBUG}") 
 
 # for gdb debug.
-SET(CMAKE_BUILD_TYPE "Debug")
-SET(CMAKE_CXX_FLAGS_DEBUG "$ENV{CXXFLAGS} -O0 -Wall -g -ggdb")
+# SET(CMAKE_BUILD_TYPE "Debug")
+# SET(CMAKE_CXX_FLAGS_DEBUG "$ENV{CXXFLAGS} -O0 -Wall -g -ggdb")
 # the end.
 
 # SET(CMAKE_BUILD_TYPE "Release")
 # set(CMAKE_CXX_FLAGS_RELEASE "-O3 -DNDEBUG")
 
-# SET(CMAKE_BUILD_TYPE "RelWithDebInfo")
+SET(CMAKE_BUILD_TYPE "RelWithDebInfo")
+# set(CMAKE_CXX_FLAGS_RELWITHDEBINFO "-g -ggdb")
+set(CMAKE_CXX_FLAGS_RELWITHDEBINFO "-O3 -g")
 # set(CMAKE_CXX_FLAGS_RELWITHDEBINFO "-pg") # cmake default: "-O2 -g -DNDEBUG"
 message(STATUS "CMAKE_CXX_FLAGS_RELWITHDEBINFO=${CMAKE_CXX_FLAGS_RELWITHDEBINFO}") 
 # message(STATUS "CMAKE_CXX_FLAGS_DEBUG=${CMAKE_CXX_FLAGS_DEBUG}") 
@@ -36,6 +38,9 @@ message(STATUS "CMAKE_CXX_FLAGS_DEBUG=" ${CMAKE_CXX_FLAGS_DEBUG})
 message(STATUS "ENV{CXXFLAGS}=$ENV{CXXFLAGS}")
 
 find_package(TBB REQUIRED)
+# find_package(Eigen3 REQUIRED)
+set(Eigen3_DIR "/root/SETUP/eigen-3.4.0_install/share/eigen3/cmake")
+# set(Ceres_DIR "/root/SETUP/ceres210_install/lib/cmake/Ceres")
 find_package(Eigen3 REQUIRED)
 
 include_directories(
@@ -97,7 +102,7 @@ target_link_libraries(test_gperftools -lprofiler)
 
 
 # 2024-08-29
-option(DEBUG_ASAN "AddressSanitizer, Debug for memory leak" ON) # ON or OFF
+option(DEBUG_ASAN "AddressSanitizer, Debug for memory leak" OFF) # ON or OFF
 option(DEBUG_TSAN "ThreadSanitizer, Debug for data race" OFF) # ON or OFF
 ############# Compile flags ###############
 if (DEBUG_ASAN)
@@ -120,7 +125,7 @@ add_executable(test_tcmalloc
   ${CMAKE_CURRENT_SOURCE_DIR}/src/test_tcmalloc.cpp
 )
 
-# target_link_libraries(test_tcmalloc -lprofiler -ltcmalloc -lpthread)
+target_link_libraries(test_tcmalloc -lprofiler -ltcmalloc -lpthread)
 
 # add_executable(epoll_server_test src/epoll_server_test.cpp)
 
