@@ -42,6 +42,13 @@ int main(int argc, char**argv)
     using VecX = Eigen::Matrix<double, Eigen::Dynamic, 1>;
     Eigen::Matrix<double, 6, 36> Q2Jp;
     Q2Jp.setOnes();
+    // std::cout << "aaa=\n" << Q2Jp.block(5, 7, 1, 29) << std::endl;
+    // std::cout << "aaa=\n" << Q2Jp.block(6, 7, 1, 29) << std::endl;
+    MatX temp = Q2Jp.block(6, 7, 0, 29);
+    std::cout << "temp.rows()=" << temp.rows() << " temp.cols()=" << temp.cols() << std::endl;
+
+    MatX temp2;
+    std::cout << "temp2.rows()=" << temp2.rows() << " temp2.cols()=" << temp2.cols() << std::endl;
     VecX tempVector;
     tempVector.resize(36 + 1);
     double* tempData = tempVector.data();
