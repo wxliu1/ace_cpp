@@ -32,10 +32,13 @@ message(STATUS "3 CMAKE_BUILD_TYPE=${CMAKE_BUILD_TYPE}")
 SET(CMAKE_BUILD_TYPE "Release")
 set(CMAKE_CXX_FLAGS_RELEASE "-O3 -DNDEBUG")
 
+find_package(Eigen3 REQUIRED)
 
 add_executable(test1
   ${CMAKE_CURRENT_SOURCE_DIR}/src/test1.cpp
 )
+
+target_link_libraries(test1 Eigen3::Eigen)
 
 # target_link_libraries(test1 -lpthread)
 
