@@ -1,0 +1,4 @@
+#loop closure parameters
+load_previous_pose_graph: true        # load and reuse previous pose graph; load from 'pose_graph_save_path'
+pose_graph_save_path: "/home/lwx/map_file_and_pose_graph/sim_pose_graph/pose_graph/" # save and load path
+add_keyframe_mode: 1            # 0 for manual, 1 for manual+auto

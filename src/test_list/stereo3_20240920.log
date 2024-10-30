@@ -1,0 +1,1192 @@
+20240920_091539.976 main()
+20240920_091539.976 program_version_revision = 2024-09-19 18:09:27
+20240920_091540.211 back end init.  first cam0 observation count: 90
+20240920_091821.921 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=47, isBigTranslation=0, UseImuPose=0
+20240920_091821.921 try to reset algorithm.
+20240920_091821.961 begin reset algorithm. converged=2, cam0_num_observations=93, tracked points=46, isBigTranslation=0, UseImuPose=0
+20240920_091821.961 try to reset algorithm.
+20240920_091821.961 reset algorithm is not complete yet.
+20240920_091821.962 reset algorithm completed.
+20240920_091822.005 back end init.  first cam0 observation count: 89
+20240920_092123.973 begin reset algorithm. converged=1, cam0_num_observations=136, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_092123.973 try to reset algorithm.
+20240920_092124.007 begin reset algorithm. converged=1, cam0_num_observations=132, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_092124.008 try to reset algorithm.
+20240920_092124.008 reset algorithm is not complete yet.
+20240920_092124.010 reset algorithm completed.
+20240920_092124.044 back end init.  first cam0 observation count: 100
+20240920_092124.045 begin reset algorithm. converged=1, cam0_num_observations=100, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_092124.045 try to reset algorithm.
+20240920_092124.092 begin reset algorithm. converged=1, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.092 try to reset algorithm.
+20240920_092124.092 reset algorithm is not complete yet.
+20240920_092124.092 reset algorithm completed.
+20240920_092124.125 back end init.  first cam0 observation count: 89
+20240920_092124.125 Numerical failure in backsubstitution.
+20240920_092124.125 begin reset algorithm. converged=2, cam0_num_observations=89, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.125 try to reset algorithm.
+20240920_092124.167 Numerical failure in backsubstitution.
+20240920_092124.167 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.167 try to reset algorithm.
+20240920_092124.167 reset algorithm is not complete yet.
+20240920_092124.167 reset algorithm completed.
+20240920_092124.208 back end init.  first cam0 observation count: 99
+20240920_092124.208 Numerical failure in backsubstitution.
+20240920_092124.209 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.209 try to reset algorithm.
+20240920_092124.247 Numerical failure in backsubstitution.
+20240920_092124.247 begin reset algorithm. converged=2, cam0_num_observations=110, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.247 try to reset algorithm.
+20240920_092124.247 reset algorithm is not complete yet.
+20240920_092124.247 reset algorithm completed.
+20240920_092124.288 back end init.  first cam0 observation count: 103
+20240920_092124.289 Numerical failure in backsubstitution.
+20240920_092124.289 begin reset algorithm. converged=2, cam0_num_observations=103, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.289 try to reset algorithm.
+20240920_092124.326 Numerical failure in backsubstitution.
+20240920_092124.326 begin reset algorithm. converged=2, cam0_num_observations=106, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.326 try to reset algorithm.
+20240920_092124.326 reset algorithm is not complete yet.
+20240920_092124.326 reset algorithm completed.
+20240920_092124.372 back end init.  first cam0 observation count: 103
+20240920_092124.373 Numerical failure in backsubstitution.
+20240920_092124.373 begin reset algorithm. converged=2, cam0_num_observations=103, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.373 try to reset algorithm.
+20240920_092124.406 Numerical failure in backsubstitution.
+20240920_092124.406 begin reset algorithm. converged=2, cam0_num_observations=104, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.406 try to reset algorithm.
+20240920_092124.406 reset algorithm is not complete yet.
+20240920_092124.406 reset algorithm completed.
+20240920_092124.450 back end init.  first cam0 observation count: 104
+20240920_092124.450 Numerical failure in backsubstitution.
+20240920_092124.451 begin reset algorithm. converged=2, cam0_num_observations=104, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.451 try to reset algorithm.
+20240920_092124.486 Numerical failure in backsubstitution.
+20240920_092124.486 begin reset algorithm. converged=2, cam0_num_observations=101, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.486 try to reset algorithm.
+20240920_092124.486 reset algorithm is not complete yet.
+20240920_092124.486 reset algorithm completed.
+20240920_092124.532 back end init.  first cam0 observation count: 101
+20240920_092124.533 Numerical failure in backsubstitution.
+20240920_092124.533 begin reset algorithm. converged=2, cam0_num_observations=101, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.533 try to reset algorithm.
+20240920_092124.572 Numerical failure in backsubstitution.
+20240920_092124.572 begin reset algorithm. converged=2, cam0_num_observations=110, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.572 try to reset algorithm.
+20240920_092124.572 reset algorithm is not complete yet.
+20240920_092124.572 reset algorithm completed.
+20240920_092124.613 back end init.  first cam0 observation count: 101
+20240920_092124.614 Numerical failure in backsubstitution.
+20240920_092124.614 begin reset algorithm. converged=2, cam0_num_observations=101, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.614 try to reset algorithm.
+20240920_092124.656 Numerical failure in backsubstitution.
+20240920_092124.656 begin reset algorithm. converged=2, cam0_num_observations=109, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.656 try to reset algorithm.
+20240920_092124.656 reset algorithm is not complete yet.
+20240920_092124.656 reset algorithm completed.
+20240920_092124.696 back end init.  first cam0 observation count: 102
+20240920_092124.696 Numerical failure in backsubstitution.
+20240920_092124.696 begin reset algorithm. converged=2, cam0_num_observations=102, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.696 try to reset algorithm.
+20240920_092124.738 Numerical failure in backsubstitution.
+20240920_092124.738 begin reset algorithm. converged=2, cam0_num_observations=101, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.738 try to reset algorithm.
+20240920_092124.738 reset algorithm is not complete yet.
+20240920_092124.738 reset algorithm completed.
+20240920_092124.780 back end init.  first cam0 observation count: 98
+20240920_092124.781 Numerical failure in backsubstitution.
+20240920_092124.781 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.781 try to reset algorithm.
+20240920_092124.814 Numerical failure in backsubstitution.
+20240920_092124.814 begin reset algorithm. converged=2, cam0_num_observations=91, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_092124.814 try to reset algorithm.
+20240920_092124.814 reset algorithm is not complete yet.
+20240920_092124.815 reset algorithm completed.
+20240920_092124.853 back end init.  first cam0 observation count: 85
+20240920_093313.582 Numerical failure in backsubstitution.
+20240920_093313.583 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=27, isBigTranslation=0, UseImuPose=0
+20240920_093313.583 try to reset algorithm.
+20240920_093313.630 reset algorithm completed.
+20240920_093313.663 back end init.  first cam0 observation count: 86
+20240920_094402.835 begin reset algorithm. converged=2, cam0_num_observations=92, tracked points=37, isBigTranslation=0, UseImuPose=0
+20240920_094402.835 try to reset algorithm.
+20240920_094402.878 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=36, isBigTranslation=0, UseImuPose=0
+20240920_094402.879 try to reset algorithm.
+20240920_094402.879 reset algorithm is not complete yet.
+20240920_094402.881 reset algorithm completed.
+20240920_094402.916 back end init.  first cam0 observation count: 89
+20240920_094419.793 Numerical failure in backsubstitution.
+20240920_094419.794 begin reset algorithm. converged=2, cam0_num_observations=93, tracked points=44, isBigTranslation=0, UseImuPose=0
+20240920_094419.794 try to reset algorithm.
+20240920_094419.836 reset algorithm completed.
+20240920_094419.874 back end init.  first cam0 observation count: 85
+20240920_095700.979 Numerical failure in backsubstitution.
+20240920_095700.981 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=44, isBigTranslation=0, UseImuPose=0
+20240920_095700.981 try to reset algorithm.
+20240920_095701.021 Numerical failure in backsubstitution.
+20240920_095701.021 begin reset algorithm. converged=2, cam0_num_observations=102, tracked points=44, isBigTranslation=0, UseImuPose=0
+20240920_095701.021 try to reset algorithm.
+20240920_095701.021 reset algorithm is not complete yet.
+20240920_095701.024 reset algorithm completed.
+20240920_095701.058 back end init.  first cam0 observation count: 85
+20240920_100429.083 Numerical failure in backsubstitution.
+20240920_100429.083 begin reset algorithm. converged=2, cam0_num_observations=92, tracked points=35, isBigTranslation=0, UseImuPose=0
+20240920_100429.084 try to reset algorithm.
+20240920_100429.124 Numerical failure in backsubstitution.
+20240920_100429.124 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=35, isBigTranslation=0, UseImuPose=0
+20240920_100429.124 try to reset algorithm.
+20240920_100429.125 reset algorithm is not complete yet.
+20240920_100429.127 reset algorithm completed.
+20240920_100429.164 back end init.  first cam0 observation count: 90
+20240920_102006.361 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=51, isBigTranslation=0, UseImuPose=0
+20240920_102006.362 try to reset algorithm.
+20240920_102006.400 begin reset algorithm. converged=2, cam0_num_observations=94, tracked points=51, isBigTranslation=0, UseImuPose=0
+20240920_102006.400 try to reset algorithm.
+20240920_102006.400 reset algorithm is not complete yet.
+20240920_102006.403 reset algorithm completed.
+20240920_102006.446 back end init.  first cam0 observation count: 90
+20240920_102504.834 begin reset algorithm. converged=1, cam0_num_observations=128, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_102504.835 try to reset algorithm.
+20240920_102504.873 begin reset algorithm. converged=1, cam0_num_observations=140, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_102504.873 try to reset algorithm.
+20240920_102504.873 reset algorithm is not complete yet.
+20240920_102504.875 reset algorithm completed.
+20240920_102504.914 back end init.  first cam0 observation count: 100
+20240920_102504.914 Numerical failure in backsubstitution.
+20240920_102504.914 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102504.914 try to reset algorithm.
+20240920_102504.953 Numerical failure in backsubstitution.
+20240920_102504.953 begin reset algorithm. converged=2, cam0_num_observations=109, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102504.953 try to reset algorithm.
+20240920_102504.953 reset algorithm is not complete yet.
+20240920_102504.953 reset algorithm completed.
+20240920_102504.994 back end init.  first cam0 observation count: 98
+20240920_102504.995 Numerical failure in backsubstitution.
+20240920_102504.995 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102504.995 try to reset algorithm.
+20240920_102505.035 Numerical failure in backsubstitution.
+20240920_102505.036 begin reset algorithm. converged=2, cam0_num_observations=102, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102505.036 try to reset algorithm.
+20240920_102505.036 reset algorithm is not complete yet.
+20240920_102505.036 reset algorithm completed.
+20240920_102505.077 back end init.  first cam0 observation count: 100
+20240920_102505.077 Numerical failure in backsubstitution.
+20240920_102505.077 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102505.078 try to reset algorithm.
+20240920_102505.114 Numerical failure in backsubstitution.
+20240920_102505.114 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102505.114 try to reset algorithm.
+20240920_102505.114 reset algorithm is not complete yet.
+20240920_102505.115 reset algorithm completed.
+20240920_102505.157 back end init.  first cam0 observation count: 99
+20240920_102505.158 Numerical failure in backsubstitution.
+20240920_102505.158 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102505.158 try to reset algorithm.
+20240920_102505.195 Numerical failure in backsubstitution.
+20240920_102505.195 begin reset algorithm. converged=2, cam0_num_observations=102, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102505.196 try to reset algorithm.
+20240920_102505.196 reset algorithm is not complete yet.
+20240920_102505.196 reset algorithm completed.
+20240920_102505.242 back end init.  first cam0 observation count: 101
+20240920_102505.243 Numerical failure in backsubstitution.
+20240920_102505.243 begin reset algorithm. converged=2, cam0_num_observations=101, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102505.243 try to reset algorithm.
+20240920_102505.277 Numerical failure in backsubstitution.
+20240920_102505.277 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102505.277 try to reset algorithm.
+20240920_102505.278 reset algorithm is not complete yet.
+20240920_102505.278 reset algorithm completed.
+20240920_102505.321 back end init.  first cam0 observation count: 102
+20240920_102505.321 Numerical failure in backsubstitution.
+20240920_102505.322 begin reset algorithm. converged=2, cam0_num_observations=102, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102505.322 try to reset algorithm.
+20240920_102505.360 Numerical failure in backsubstitution.
+20240920_102505.360 begin reset algorithm. converged=2, cam0_num_observations=103, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102505.360 try to reset algorithm.
+20240920_102505.360 reset algorithm is not complete yet.
+20240920_102505.360 reset algorithm completed.
+20240920_102505.402 back end init.  first cam0 observation count: 102
+20240920_102505.402 Numerical failure in backsubstitution.
+20240920_102505.403 begin reset algorithm. converged=2, cam0_num_observations=102, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102505.403 try to reset algorithm.
+20240920_102505.449 Numerical failure in backsubstitution.
+20240920_102505.449 begin reset algorithm. converged=2, cam0_num_observations=104, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102505.449 try to reset algorithm.
+20240920_102505.449 reset algorithm is not complete yet.
+20240920_102505.449 reset algorithm completed.
+20240920_102505.479 back end init.  first cam0 observation count: 101
+20240920_102505.479 Numerical failure in backsubstitution.
+20240920_102505.480 begin reset algorithm. converged=2, cam0_num_observations=101, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102505.480 try to reset algorithm.
+20240920_102505.523 Numerical failure in backsubstitution.
+20240920_102505.523 begin reset algorithm. converged=2, cam0_num_observations=101, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_102505.523 try to reset algorithm.
+20240920_102505.523 reset algorithm is not complete yet.
+20240920_102505.523 reset algorithm completed.
+20240920_102505.559 back end init.  first cam0 observation count: 92
+20240920_102505.560 begin reset algorithm. converged=1, cam0_num_observations=92, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_102505.560 try to reset algorithm.
+20240920_102505.599 begin reset algorithm. converged=1, cam0_num_observations=88, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_102505.600 try to reset algorithm.
+20240920_102505.600 reset algorithm is not complete yet.
+20240920_102505.600 reset algorithm completed.
+20240920_102505.643 back end init.  first cam0 observation count: 84
+20240920_103002.072 Numerical failure in backsubstitution.
+20240920_103002.073 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=54, isBigTranslation=0, UseImuPose=0
+20240920_103002.073 try to reset algorithm.
+20240920_103002.111 Numerical failure in backsubstitution.
+20240920_103002.113 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=57, isBigTranslation=0, UseImuPose=0
+20240920_103002.113 try to reset algorithm.
+20240920_103002.114 reset algorithm is not complete yet.
+20240920_103002.116 reset algorithm completed.
+20240920_103002.152 back end init.  first cam0 observation count: 92
+20240920_104343.471 Numerical failure in backsubstitution.
+20240920_104343.472 begin reset algorithm. converged=2, cam0_num_observations=104, tracked points=42, isBigTranslation=0, UseImuPose=0
+20240920_104343.472 try to reset algorithm.
+20240920_104343.514 Numerical failure in backsubstitution.
+20240920_104343.515 begin reset algorithm. converged=2, cam0_num_observations=104, tracked points=42, isBigTranslation=0, UseImuPose=0
+20240920_104343.515 try to reset algorithm.
+20240920_104343.515 reset algorithm is not complete yet.
+20240920_104343.518 reset algorithm completed.
+20240920_104343.553 back end init.  first cam0 observation count: 86
+20240920_105241.214 Numerical failure in backsubstitution.
+20240920_105241.215 begin reset algorithm. converged=2, cam0_num_observations=103, tracked points=43, isBigTranslation=0, UseImuPose=0
+20240920_105241.215 try to reset algorithm.
+20240920_105241.255 Numerical failure in backsubstitution.
+20240920_105241.255 begin reset algorithm. converged=2, cam0_num_observations=103, tracked points=43, isBigTranslation=0, UseImuPose=0
+20240920_105241.255 try to reset algorithm.
+20240920_105241.255 reset algorithm is not complete yet.
+20240920_105241.256 reset algorithm completed.
+20240920_105241.294 back end init.  first cam0 observation count: 83
+20240920_110004.987 Numerical failure in backsubstitution.
+20240920_110004.987 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=25, isBigTranslation=0, UseImuPose=0
+20240920_110004.987 try to reset algorithm.
+20240920_110005.024 Numerical failure in backsubstitution.
+20240920_110005.024 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=25, isBigTranslation=0, UseImuPose=0
+20240920_110005.025 try to reset algorithm.
+20240920_110005.025 reset algorithm is not complete yet.
+20240920_110005.027 reset algorithm completed.
+20240920_110005.066 back end init.  first cam0 observation count: 89
+20240920_140232.953 main()
+20240920_140232.954 program_version_revision = 2024-09-20 13:56:16
+20240920_140233.184 back end init.  first cam0 observation count: 86
+20240920_140233.214 begin to reset last pose.
+20240920_140233.414 begin to reset last pose.
+20240920_141228.056 main()
+20240920_141228.056 program_version_revision = 2024-09-20 13:56:16
+20240920_141228.364 back end init.  first cam0 observation count: 86
+20240920_141228.476 begin to reset last pose.
+20240920_141228.476 begin to reset last pose.
+20240920_141806.688 Numerical failure in backsubstitution.
+20240920_141806.689 begin reset algorithm. converged=2, cam0_num_observations=92, tracked points=49, isBigTranslation=0, UseImuPose=0
+20240920_141806.689 try to reset algorithm.
+20240920_141806.726 Numerical failure in backsubstitution.
+20240920_141806.726 begin reset algorithm. converged=2, cam0_num_observations=91, tracked points=49, isBigTranslation=0, UseImuPose=0
+20240920_141806.726 try to reset algorithm.
+20240920_141806.726 reset algorithm is not complete yet.
+20240920_141806.730 reset algorithm completed.
+20240920_141806.767 back end init.  first cam0 observation count: 90
+20240920_141955.183 begin reset algorithm. converged=0, cam0_num_observations=93, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141955.183 try to reset algorithm.
+20240920_141955.218 begin reset algorithm. converged=0, cam0_num_observations=107, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141955.218 try to reset algorithm.
+20240920_141955.218 reset algorithm is not complete yet.
+20240920_141955.220 reset algorithm completed.
+20240920_141955.257 back end init.  first cam0 observation count: 94
+20240920_141955.258 begin reset algorithm. converged=1, cam0_num_observations=94, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141955.258 try to reset algorithm.
+20240920_141955.296 begin reset algorithm. converged=1, cam0_num_observations=100, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141955.296 try to reset algorithm.
+20240920_141955.296 reset algorithm is not complete yet.
+20240920_141955.297 reset algorithm completed.
+20240920_141955.337 back end init.  first cam0 observation count: 96
+20240920_141955.338 begin reset algorithm. converged=1, cam0_num_observations=96, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141955.338 try to reset algorithm.
+20240920_141955.378 begin reset algorithm. converged=1, cam0_num_observations=95, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141955.378 try to reset algorithm.
+20240920_141955.378 reset algorithm is not complete yet.
+20240920_141955.379 reset algorithm completed.
+20240920_141955.420 back end init.  first cam0 observation count: 95
+20240920_141955.420 Numerical failure in backsubstitution.
+20240920_141955.421 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141955.421 try to reset algorithm.
+20240920_141955.455 Numerical failure in backsubstitution.
+20240920_141955.455 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141955.455 try to reset algorithm.
+20240920_141955.455 reset algorithm is not complete yet.
+20240920_141955.456 reset algorithm completed.
+20240920_141955.499 back end init.  first cam0 observation count: 97
+20240920_141955.500 begin reset algorithm. converged=1, cam0_num_observations=97, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141955.500 try to reset algorithm.
+20240920_141955.538 begin reset algorithm. converged=1, cam0_num_observations=98, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141955.538 try to reset algorithm.
+20240920_141955.538 reset algorithm is not complete yet.
+20240920_141955.539 reset algorithm completed.
+20240920_141955.585 back end init.  first cam0 observation count: 95
+20240920_141955.585 Numerical failure in backsubstitution.
+20240920_141955.586 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141955.586 try to reset algorithm.
+20240920_141955.618 Numerical failure in backsubstitution.
+20240920_141955.618 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141955.618 try to reset algorithm.
+20240920_141955.618 reset algorithm is not complete yet.
+20240920_141955.618 reset algorithm completed.
+20240920_141955.662 back end init.  first cam0 observation count: 96
+20240920_141955.663 Numerical failure in backsubstitution.
+20240920_141955.663 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141955.663 try to reset algorithm.
+20240920_141955.698 Numerical failure in backsubstitution.
+20240920_141955.698 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141955.698 try to reset algorithm.
+20240920_141955.699 reset algorithm is not complete yet.
+20240920_141955.699 reset algorithm completed.
+20240920_141955.743 back end init.  first cam0 observation count: 96
+20240920_141955.744 Numerical failure in backsubstitution.
+20240920_141955.744 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141955.744 try to reset algorithm.
+20240920_141955.784 Numerical failure in backsubstitution.
+20240920_141955.784 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141955.784 try to reset algorithm.
+20240920_141955.784 reset algorithm is not complete yet.
+20240920_141955.784 reset algorithm completed.
+20240920_141955.824 back end init.  first cam0 observation count: 99
+20240920_141955.825 Numerical failure in backsubstitution.
+20240920_141955.825 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141955.825 try to reset algorithm.
+20240920_141955.862 Numerical failure in backsubstitution.
+20240920_141955.863 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141955.863 try to reset algorithm.
+20240920_141955.863 reset algorithm is not complete yet.
+20240920_141955.863 reset algorithm completed.
+20240920_141955.906 back end init.  first cam0 observation count: 95
+20240920_141955.906 Numerical failure in backsubstitution.
+20240920_141955.906 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141955.907 try to reset algorithm.
+20240920_141955.944 Numerical failure in backsubstitution.
+20240920_141955.944 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141955.944 try to reset algorithm.
+20240920_141955.944 reset algorithm is not complete yet.
+20240920_141955.944 reset algorithm completed.
+20240920_141955.990 back end init.  first cam0 observation count: 98
+20240920_141955.990 begin reset algorithm. converged=1, cam0_num_observations=98, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141955.990 try to reset algorithm.
+20240920_141956.025 begin reset algorithm. converged=1, cam0_num_observations=97, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141956.025 try to reset algorithm.
+20240920_141956.025 reset algorithm is not complete yet.
+20240920_141956.025 reset algorithm completed.
+20240920_141956.069 back end init.  first cam0 observation count: 98
+20240920_141956.070 begin reset algorithm. converged=1, cam0_num_observations=98, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141956.070 try to reset algorithm.
+20240920_141956.106 begin reset algorithm. converged=1, cam0_num_observations=100, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141956.106 try to reset algorithm.
+20240920_141956.106 reset algorithm is not complete yet.
+20240920_141956.106 reset algorithm completed.
+20240920_141956.149 back end init.  first cam0 observation count: 98
+20240920_141956.150 begin reset algorithm. converged=1, cam0_num_observations=98, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141956.150 try to reset algorithm.
+20240920_141956.190 begin reset algorithm. converged=1, cam0_num_observations=99, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141956.190 try to reset algorithm.
+20240920_141956.190 reset algorithm is not complete yet.
+20240920_141956.190 reset algorithm completed.
+20240920_141956.230 back end init.  first cam0 observation count: 97
+20240920_141956.231 Numerical failure in backsubstitution.
+20240920_141956.231 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141956.231 try to reset algorithm.
+20240920_141956.267 Numerical failure in backsubstitution.
+20240920_141956.267 begin reset algorithm. converged=2, cam0_num_observations=102, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141956.267 try to reset algorithm.
+20240920_141956.268 reset algorithm is not complete yet.
+20240920_141956.268 reset algorithm completed.
+20240920_141956.312 back end init.  first cam0 observation count: 99
+20240920_141956.313 Numerical failure in backsubstitution.
+20240920_141956.313 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141956.313 try to reset algorithm.
+20240920_141956.348 Numerical failure in backsubstitution.
+20240920_141956.348 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141956.348 try to reset algorithm.
+20240920_141956.348 reset algorithm is not complete yet.
+20240920_141956.348 reset algorithm completed.
+20240920_141956.395 back end init.  first cam0 observation count: 96
+20240920_141956.396 Numerical failure in backsubstitution.
+20240920_141956.396 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141956.396 try to reset algorithm.
+20240920_141956.431 Numerical failure in backsubstitution.
+20240920_141956.431 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141956.431 try to reset algorithm.
+20240920_141956.431 reset algorithm is not complete yet.
+20240920_141956.431 reset algorithm completed.
+20240920_141956.474 back end init.  first cam0 observation count: 97
+20240920_141956.475 begin reset algorithm. converged=1, cam0_num_observations=97, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141956.475 try to reset algorithm.
+20240920_141956.511 begin reset algorithm. converged=1, cam0_num_observations=99, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141956.511 try to reset algorithm.
+20240920_141956.511 reset algorithm is not complete yet.
+20240920_141956.511 reset algorithm completed.
+20240920_141956.555 back end init.  first cam0 observation count: 97
+20240920_141956.555 Numerical failure in backsubstitution.
+20240920_141956.555 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141956.556 try to reset algorithm.
+20240920_141956.595 Numerical failure in backsubstitution.
+20240920_141956.596 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141956.596 try to reset algorithm.
+20240920_141956.596 reset algorithm is not complete yet.
+20240920_141956.596 reset algorithm completed.
+20240920_141956.636 back end init.  first cam0 observation count: 98
+20240920_141956.637 Numerical failure in backsubstitution.
+20240920_141956.637 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141956.637 try to reset algorithm.
+20240920_141956.673 Numerical failure in backsubstitution.
+20240920_141956.674 begin reset algorithm. converged=2, cam0_num_observations=102, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141956.674 try to reset algorithm.
+20240920_141956.674 reset algorithm is not complete yet.
+20240920_141956.674 reset algorithm completed.
+20240920_141956.718 back end init.  first cam0 observation count: 97
+20240920_141956.719 begin reset algorithm. converged=1, cam0_num_observations=97, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141956.719 try to reset algorithm.
+20240920_141956.755 begin reset algorithm. converged=1, cam0_num_observations=100, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141956.755 try to reset algorithm.
+20240920_141956.755 reset algorithm is not complete yet.
+20240920_141956.755 reset algorithm completed.
+20240920_141956.802 back end init.  first cam0 observation count: 98
+20240920_141956.803 Numerical failure in backsubstitution.
+20240920_141956.803 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141956.803 try to reset algorithm.
+20240920_141956.837 Numerical failure in backsubstitution.
+20240920_141956.837 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141956.837 try to reset algorithm.
+20240920_141956.837 reset algorithm is not complete yet.
+20240920_141956.837 reset algorithm completed.
+20240920_141956.880 back end init.  first cam0 observation count: 95
+20240920_141956.881 Numerical failure in backsubstitution.
+20240920_141956.881 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141956.881 try to reset algorithm.
+20240920_141956.917 Numerical failure in backsubstitution.
+20240920_141956.917 begin reset algorithm. converged=2, cam0_num_observations=102, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141956.917 try to reset algorithm.
+20240920_141956.917 reset algorithm is not complete yet.
+20240920_141956.917 reset algorithm completed.
+20240920_141956.961 back end init.  first cam0 observation count: 98
+20240920_141956.962 begin reset algorithm. converged=1, cam0_num_observations=98, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141956.962 try to reset algorithm.
+20240920_141957.001 begin reset algorithm. converged=1, cam0_num_observations=100, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141957.001 try to reset algorithm.
+20240920_141957.001 reset algorithm is not complete yet.
+20240920_141957.001 reset algorithm completed.
+20240920_141957.042 back end init.  first cam0 observation count: 98
+20240920_141957.043 begin reset algorithm. converged=1, cam0_num_observations=98, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141957.043 try to reset algorithm.
+20240920_141957.079 begin reset algorithm. converged=1, cam0_num_observations=100, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141957.079 try to reset algorithm.
+20240920_141957.079 reset algorithm is not complete yet.
+20240920_141957.079 reset algorithm completed.
+20240920_141957.123 back end init.  first cam0 observation count: 100
+20240920_141957.124 Numerical failure in backsubstitution.
+20240920_141957.124 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.124 try to reset algorithm.
+20240920_141957.160 Numerical failure in backsubstitution.
+20240920_141957.161 begin reset algorithm. converged=2, cam0_num_observations=101, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.161 try to reset algorithm.
+20240920_141957.161 reset algorithm is not complete yet.
+20240920_141957.161 reset algorithm completed.
+20240920_141957.208 back end init.  first cam0 observation count: 94
+20240920_141957.209 Numerical failure in backsubstitution.
+20240920_141957.209 begin reset algorithm. converged=2, cam0_num_observations=94, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.209 try to reset algorithm.
+20240920_141957.241 Numerical failure in backsubstitution.
+20240920_141957.241 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.241 try to reset algorithm.
+20240920_141957.241 reset algorithm is not complete yet.
+20240920_141957.241 reset algorithm completed.
+20240920_141957.285 back end init.  first cam0 observation count: 102
+20240920_141957.286 begin reset algorithm. converged=1, cam0_num_observations=102, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141957.286 try to reset algorithm.
+20240920_141957.323 begin reset algorithm. converged=1, cam0_num_observations=99, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141957.323 try to reset algorithm.
+20240920_141957.323 reset algorithm is not complete yet.
+20240920_141957.323 reset algorithm completed.
+20240920_141957.367 back end init.  first cam0 observation count: 98
+20240920_141957.367 Numerical failure in backsubstitution.
+20240920_141957.367 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.367 try to reset algorithm.
+20240920_141957.408 Numerical failure in backsubstitution.
+20240920_141957.409 begin reset algorithm. converged=2, cam0_num_observations=102, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.409 try to reset algorithm.
+20240920_141957.409 reset algorithm is not complete yet.
+20240920_141957.409 reset algorithm completed.
+20240920_141957.448 back end init.  first cam0 observation count: 95
+20240920_141957.448 Numerical failure in backsubstitution.
+20240920_141957.449 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.449 try to reset algorithm.
+20240920_141957.484 Numerical failure in backsubstitution.
+20240920_141957.485 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.485 try to reset algorithm.
+20240920_141957.485 reset algorithm is not complete yet.
+20240920_141957.485 reset algorithm completed.
+20240920_141957.529 back end init.  first cam0 observation count: 98
+20240920_141957.530 Numerical failure in backsubstitution.
+20240920_141957.530 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.530 try to reset algorithm.
+20240920_141957.565 Numerical failure in backsubstitution.
+20240920_141957.565 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.566 try to reset algorithm.
+20240920_141957.566 reset algorithm is not complete yet.
+20240920_141957.566 reset algorithm completed.
+20240920_141957.614 back end init.  first cam0 observation count: 96
+20240920_141957.615 begin reset algorithm. converged=1, cam0_num_observations=96, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141957.615 try to reset algorithm.
+20240920_141957.647 begin reset algorithm. converged=1, cam0_num_observations=98, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141957.647 try to reset algorithm.
+20240920_141957.648 reset algorithm is not complete yet.
+20240920_141957.648 reset algorithm completed.
+20240920_141957.691 back end init.  first cam0 observation count: 96
+20240920_141957.692 Numerical failure in backsubstitution.
+20240920_141957.692 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.692 try to reset algorithm.
+20240920_141957.727 Numerical failure in backsubstitution.
+20240920_141957.727 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.727 try to reset algorithm.
+20240920_141957.727 reset algorithm is not complete yet.
+20240920_141957.727 reset algorithm completed.
+20240920_141957.772 back end init.  first cam0 observation count: 99
+20240920_141957.773 begin reset algorithm. converged=1, cam0_num_observations=99, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141957.773 try to reset algorithm.
+20240920_141957.813 begin reset algorithm. converged=1, cam0_num_observations=99, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141957.813 try to reset algorithm.
+20240920_141957.813 reset algorithm is not complete yet.
+20240920_141957.813 reset algorithm completed.
+20240920_141957.853 back end init.  first cam0 observation count: 96
+20240920_141957.854 Numerical failure in backsubstitution.
+20240920_141957.854 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.854 try to reset algorithm.
+20240920_141957.890 Numerical failure in backsubstitution.
+20240920_141957.890 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.890 try to reset algorithm.
+20240920_141957.891 reset algorithm is not complete yet.
+20240920_141957.891 reset algorithm completed.
+20240920_141957.935 back end init.  first cam0 observation count: 96
+20240920_141957.936 Numerical failure in backsubstitution.
+20240920_141957.936 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.936 try to reset algorithm.
+20240920_141957.972 Numerical failure in backsubstitution.
+20240920_141957.972 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141957.972 try to reset algorithm.
+20240920_141957.972 reset algorithm is not complete yet.
+20240920_141957.972 reset algorithm completed.
+20240920_141958.019 back end init.  first cam0 observation count: 96
+20240920_141958.020 Numerical failure in backsubstitution.
+20240920_141958.020 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141958.020 try to reset algorithm.
+20240920_141958.052 Numerical failure in backsubstitution.
+20240920_141958.052 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141958.052 try to reset algorithm.
+20240920_141958.052 reset algorithm is not complete yet.
+20240920_141958.052 reset algorithm completed.
+20240920_141958.097 back end init.  first cam0 observation count: 96
+20240920_141958.098 Numerical failure in backsubstitution.
+20240920_141958.098 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141958.098 try to reset algorithm.
+20240920_141958.134 Numerical failure in backsubstitution.
+20240920_141958.135 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141958.135 try to reset algorithm.
+20240920_141958.135 reset algorithm is not complete yet.
+20240920_141958.135 reset algorithm completed.
+20240920_141958.179 back end init.  first cam0 observation count: 95
+20240920_141958.180 begin reset algorithm. converged=1, cam0_num_observations=95, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.180 try to reset algorithm.
+20240920_141958.219 begin reset algorithm. converged=1, cam0_num_observations=96, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.219 try to reset algorithm.
+20240920_141958.219 reset algorithm is not complete yet.
+20240920_141958.219 reset algorithm completed.
+20240920_141958.260 back end init.  first cam0 observation count: 95
+20240920_141958.261 begin reset algorithm. converged=1, cam0_num_observations=95, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.261 try to reset algorithm.
+20240920_141958.297 begin reset algorithm. converged=1, cam0_num_observations=99, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.297 try to reset algorithm.
+20240920_141958.297 reset algorithm is not complete yet.
+20240920_141958.297 reset algorithm completed.
+20240920_141958.340 back end init.  first cam0 observation count: 96
+20240920_141958.341 begin reset algorithm. converged=1, cam0_num_observations=96, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.341 try to reset algorithm.
+20240920_141958.379 begin reset algorithm. converged=1, cam0_num_observations=98, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.379 try to reset algorithm.
+20240920_141958.379 reset algorithm is not complete yet.
+20240920_141958.379 reset algorithm completed.
+20240920_141958.425 back end init.  first cam0 observation count: 94
+20240920_141958.426 begin reset algorithm. converged=1, cam0_num_observations=94, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.426 try to reset algorithm.
+20240920_141958.459 begin reset algorithm. converged=1, cam0_num_observations=96, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.459 try to reset algorithm.
+20240920_141958.459 reset algorithm is not complete yet.
+20240920_141958.459 reset algorithm completed.
+20240920_141958.502 back end init.  first cam0 observation count: 97
+20240920_141958.503 begin reset algorithm. converged=1, cam0_num_observations=97, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.504 try to reset algorithm.
+20240920_141958.540 begin reset algorithm. converged=1, cam0_num_observations=98, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.540 try to reset algorithm.
+20240920_141958.540 reset algorithm is not complete yet.
+20240920_141958.541 reset algorithm completed.
+20240920_141958.585 back end init.  first cam0 observation count: 95
+20240920_141958.586 Numerical failure in backsubstitution.
+20240920_141958.586 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141958.586 try to reset algorithm.
+20240920_141958.624 Numerical failure in backsubstitution.
+20240920_141958.624 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141958.624 try to reset algorithm.
+20240920_141958.624 reset algorithm is not complete yet.
+20240920_141958.624 reset algorithm completed.
+20240920_141958.665 back end init.  first cam0 observation count: 97
+20240920_141958.666 begin reset algorithm. converged=1, cam0_num_observations=97, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.666 try to reset algorithm.
+20240920_141958.703 begin reset algorithm. converged=1, cam0_num_observations=99, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.704 try to reset algorithm.
+20240920_141958.704 reset algorithm is not complete yet.
+20240920_141958.704 reset algorithm completed.
+20240920_141958.746 back end init.  first cam0 observation count: 98
+20240920_141958.747 begin reset algorithm. converged=1, cam0_num_observations=98, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.747 try to reset algorithm.
+20240920_141958.783 begin reset algorithm. converged=1, cam0_num_observations=98, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.783 try to reset algorithm.
+20240920_141958.784 reset algorithm is not complete yet.
+20240920_141958.784 reset algorithm completed.
+20240920_141958.830 back end init.  first cam0 observation count: 96
+20240920_141958.831 Numerical failure in backsubstitution.
+20240920_141958.831 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141958.831 try to reset algorithm.
+20240920_141958.864 Numerical failure in backsubstitution.
+20240920_141958.864 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_141958.864 try to reset algorithm.
+20240920_141958.864 reset algorithm is not complete yet.
+20240920_141958.864 reset algorithm completed.
+20240920_141958.908 back end init.  first cam0 observation count: 93
+20240920_141958.909 begin reset algorithm. converged=1, cam0_num_observations=93, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.909 try to reset algorithm.
+20240920_141958.947 begin reset algorithm. converged=1, cam0_num_observations=95, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_141958.947 try to reset algorithm.
+20240920_141958.947 reset algorithm is not complete yet.
+20240920_141958.947 reset algorithm completed.
+20240920_141958.989 back end init.  first cam0 observation count: 97
+20240920_142029.587 BIG translation.
+20240920_142029.588 begin reset algorithm. converged=0, cam0_num_observations=90, tracked points=6, isBigTranslation=1, UseImuPose=0
+20240920_142029.588 try to reset algorithm.
+20240920_142029.626 BIG translation.
+20240920_142029.626 begin reset algorithm. converged=0, cam0_num_observations=83, tracked points=2, isBigTranslation=1, UseImuPose=0
+20240920_142029.626 try to reset algorithm.
+20240920_142029.627 reset algorithm is not complete yet.
+20240920_142029.629 reset algorithm completed.
+20240920_142029.662 back end init.  first cam0 observation count: 79
+20240920_142029.663 Numerical failure in backsubstitution.
+20240920_142029.663 begin reset algorithm. converged=2, cam0_num_observations=79, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142029.663 try to reset algorithm.
+20240920_142029.703 Numerical failure in backsubstitution.
+20240920_142029.703 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142029.703 try to reset algorithm.
+20240920_142029.703 reset algorithm is not complete yet.
+20240920_142029.703 reset algorithm completed.
+20240920_142029.743 back end init.  first cam0 observation count: 99
+20240920_142029.743 Numerical failure in backsubstitution.
+20240920_142029.743 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142029.743 try to reset algorithm.
+20240920_142029.781 Numerical failure in backsubstitution.
+20240920_142029.781 begin reset algorithm. converged=2, cam0_num_observations=106, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142029.781 try to reset algorithm.
+20240920_142029.781 reset algorithm is not complete yet.
+20240920_142029.781 reset algorithm completed.
+20240920_142029.823 back end init.  first cam0 observation count: 93
+20240920_142029.823 Numerical failure in backsubstitution.
+20240920_142029.824 begin reset algorithm. converged=2, cam0_num_observations=93, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142029.824 try to reset algorithm.
+20240920_142029.865 Numerical failure in backsubstitution.
+20240920_142029.865 begin reset algorithm. converged=2, cam0_num_observations=94, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142029.865 try to reset algorithm.
+20240920_142029.865 reset algorithm is not complete yet.
+20240920_142029.865 reset algorithm completed.
+20240920_142029.905 back end init.  first cam0 observation count: 97
+20240920_142029.906 Numerical failure in backsubstitution.
+20240920_142029.906 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142029.906 try to reset algorithm.
+20240920_142029.945 Numerical failure in backsubstitution.
+20240920_142029.945 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142029.945 try to reset algorithm.
+20240920_142029.945 reset algorithm is not complete yet.
+20240920_142029.945 reset algorithm completed.
+20240920_142029.987 back end init.  first cam0 observation count: 96
+20240920_142029.987 Numerical failure in backsubstitution.
+20240920_142029.987 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142029.987 try to reset algorithm.
+20240920_142030.025 Numerical failure in backsubstitution.
+20240920_142030.025 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142030.025 try to reset algorithm.
+20240920_142030.025 reset algorithm is not complete yet.
+20240920_142030.025 reset algorithm completed.
+20240920_142030.071 back end init.  first cam0 observation count: 90
+20240920_142030.072 Numerical failure in backsubstitution.
+20240920_142030.072 begin reset algorithm. converged=2, cam0_num_observations=90, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142030.072 try to reset algorithm.
+20240920_142030.107 Numerical failure in backsubstitution.
+20240920_142030.107 begin reset algorithm. converged=2, cam0_num_observations=93, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142030.107 try to reset algorithm.
+20240920_142030.107 reset algorithm is not complete yet.
+20240920_142030.107 reset algorithm completed.
+20240920_142030.149 back end init.  first cam0 observation count: 89
+20240920_142030.150 Numerical failure in backsubstitution.
+20240920_142030.150 begin reset algorithm. converged=2, cam0_num_observations=89, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142030.150 try to reset algorithm.
+20240920_142030.189 Numerical failure in backsubstitution.
+20240920_142030.190 begin reset algorithm. converged=2, cam0_num_observations=94, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142030.190 try to reset algorithm.
+20240920_142030.190 reset algorithm is not complete yet.
+20240920_142030.190 reset algorithm completed.
+20240920_142030.231 back end init.  first cam0 observation count: 90
+20240920_142030.231 Numerical failure in backsubstitution.
+20240920_142030.231 begin reset algorithm. converged=2, cam0_num_observations=90, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142030.231 try to reset algorithm.
+20240920_142030.273 Numerical failure in backsubstitution.
+20240920_142030.273 begin reset algorithm. converged=2, cam0_num_observations=94, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142030.273 try to reset algorithm.
+20240920_142030.273 reset algorithm is not complete yet.
+20240920_142030.273 reset algorithm completed.
+20240920_142030.312 back end init.  first cam0 observation count: 89
+20240920_142030.313 Numerical failure in backsubstitution.
+20240920_142030.313 begin reset algorithm. converged=2, cam0_num_observations=89, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142030.313 try to reset algorithm.
+20240920_142030.353 Numerical failure in backsubstitution.
+20240920_142030.354 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142030.354 try to reset algorithm.
+20240920_142030.354 reset algorithm is not complete yet.
+20240920_142030.354 reset algorithm completed.
+20240920_142030.394 back end init.  first cam0 observation count: 95
+20240920_142030.395 Numerical failure in backsubstitution.
+20240920_142030.395 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142030.395 try to reset algorithm.
+20240920_142030.435 Numerical failure in backsubstitution.
+20240920_142030.436 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142030.436 try to reset algorithm.
+20240920_142030.436 reset algorithm is not complete yet.
+20240920_142030.436 reset algorithm completed.
+20240920_142030.478 back end init.  first cam0 observation count: 98
+20240920_142030.479 begin reset algorithm. converged=1, cam0_num_observations=98, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_142030.479 try to reset algorithm.
+20240920_142030.515 begin reset algorithm. converged=1, cam0_num_observations=93, tracked points=1, isBigTranslation=0, UseImuPose=0
+20240920_142030.515 try to reset algorithm.
+20240920_142030.515 reset algorithm is not complete yet.
+20240920_142030.515 reset algorithm completed.
+20240920_142030.554 back end init.  first cam0 observation count: 93
+20240920_142652.620 press 'c' to clear pose & reset algorithm
+20240920_142652.654 reset algorithm completed.
+20240920_142652.685 back end init.  first cam0 observation count: 87
+20240920_142652.782 reset odom.
+20240920_142652.782 begin to reset last pose.
+20240920_142652.782 begin to reset last pose.
+20240920_142707.749 begin reset algorithm. converged=0, cam0_num_observations=109, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142707.749 try to reset algorithm.
+20240920_142707.785 begin reset algorithm. converged=1, cam0_num_observations=113, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142707.785 try to reset algorithm.
+20240920_142707.785 reset algorithm is not complete yet.
+20240920_142707.788 reset algorithm completed.
+20240920_142707.825 back end init.  first cam0 observation count: 100
+20240920_142707.826 Numerical failure in backsubstitution.
+20240920_142707.826 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142707.826 try to reset algorithm.
+20240920_142707.867 Numerical failure in backsubstitution.
+20240920_142707.867 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142707.867 try to reset algorithm.
+20240920_142707.867 reset algorithm is not complete yet.
+20240920_142707.867 reset algorithm completed.
+20240920_142707.906 back end init.  first cam0 observation count: 91
+20240920_142707.907 Numerical failure in backsubstitution.
+20240920_142707.907 begin reset algorithm. converged=2, cam0_num_observations=91, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142707.907 try to reset algorithm.
+20240920_142707.945 Numerical failure in backsubstitution.
+20240920_142707.946 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142707.946 try to reset algorithm.
+20240920_142707.946 reset algorithm is not complete yet.
+20240920_142707.946 reset algorithm completed.
+20240920_142707.987 back end init.  first cam0 observation count: 91
+20240920_142707.988 Numerical failure in backsubstitution.
+20240920_142707.988 begin reset algorithm. converged=2, cam0_num_observations=91, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142707.988 try to reset algorithm.
+20240920_142708.026 Numerical failure in backsubstitution.
+20240920_142708.027 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.027 try to reset algorithm.
+20240920_142708.027 reset algorithm is not complete yet.
+20240920_142708.027 reset algorithm completed.
+20240920_142708.071 back end init.  first cam0 observation count: 89
+20240920_142708.072 Numerical failure in backsubstitution.
+20240920_142708.072 begin reset algorithm. converged=2, cam0_num_observations=89, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.072 try to reset algorithm.
+20240920_142708.108 Numerical failure in backsubstitution.
+20240920_142708.109 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.109 try to reset algorithm.
+20240920_142708.109 reset algorithm is not complete yet.
+20240920_142708.109 reset algorithm completed.
+20240920_142708.152 back end init.  first cam0 observation count: 96
+20240920_142708.153 Numerical failure in backsubstitution.
+20240920_142708.153 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.153 try to reset algorithm.
+20240920_142708.189 Numerical failure in backsubstitution.
+20240920_142708.190 begin reset algorithm. converged=2, cam0_num_observations=89, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.190 try to reset algorithm.
+20240920_142708.190 reset algorithm is not complete yet.
+20240920_142708.190 reset algorithm completed.
+20240920_142708.232 back end init.  first cam0 observation count: 94
+20240920_142708.233 Numerical failure in backsubstitution.
+20240920_142708.233 begin reset algorithm. converged=2, cam0_num_observations=94, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.233 try to reset algorithm.
+20240920_142708.272 Numerical failure in backsubstitution.
+20240920_142708.272 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.272 try to reset algorithm.
+20240920_142708.272 reset algorithm is not complete yet.
+20240920_142708.273 reset algorithm completed.
+20240920_142708.314 back end init.  first cam0 observation count: 96
+20240920_142708.314 Numerical failure in backsubstitution.
+20240920_142708.314 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.314 try to reset algorithm.
+20240920_142708.352 Numerical failure in backsubstitution.
+20240920_142708.352 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.352 try to reset algorithm.
+20240920_142708.352 reset algorithm is not complete yet.
+20240920_142708.353 reset algorithm completed.
+20240920_142708.395 back end init.  first cam0 observation count: 93
+20240920_142708.396 Numerical failure in backsubstitution.
+20240920_142708.396 begin reset algorithm. converged=2, cam0_num_observations=93, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.396 try to reset algorithm.
+20240920_142708.433 Numerical failure in backsubstitution.
+20240920_142708.433 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.433 try to reset algorithm.
+20240920_142708.433 reset algorithm is not complete yet.
+20240920_142708.434 reset algorithm completed.
+20240920_142708.479 back end init.  first cam0 observation count: 90
+20240920_142708.480 Numerical failure in backsubstitution.
+20240920_142708.480 begin reset algorithm. converged=2, cam0_num_observations=90, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.480 try to reset algorithm.
+20240920_142708.513 Numerical failure in backsubstitution.
+20240920_142708.513 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.513 try to reset algorithm.
+20240920_142708.513 reset algorithm is not complete yet.
+20240920_142708.514 reset algorithm completed.
+20240920_142708.558 back end init.  first cam0 observation count: 94
+20240920_142708.558 Numerical failure in backsubstitution.
+20240920_142708.558 begin reset algorithm. converged=2, cam0_num_observations=94, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.559 try to reset algorithm.
+20240920_142708.594 Numerical failure in backsubstitution.
+20240920_142708.594 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.594 try to reset algorithm.
+20240920_142708.594 reset algorithm is not complete yet.
+20240920_142708.594 reset algorithm completed.
+20240920_142708.639 back end init.  first cam0 observation count: 94
+20240920_142708.639 Numerical failure in backsubstitution.
+20240920_142708.639 begin reset algorithm. converged=2, cam0_num_observations=94, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.639 try to reset algorithm.
+20240920_142708.679 Numerical failure in backsubstitution.
+20240920_142708.679 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.679 try to reset algorithm.
+20240920_142708.679 reset algorithm is not complete yet.
+20240920_142708.679 reset algorithm completed.
+20240920_142708.719 back end init.  first cam0 observation count: 92
+20240920_142708.719 Numerical failure in backsubstitution.
+20240920_142708.719 begin reset algorithm. converged=2, cam0_num_observations=92, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.719 try to reset algorithm.
+20240920_142708.756 Numerical failure in backsubstitution.
+20240920_142708.756 begin reset algorithm. converged=2, cam0_num_observations=93, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.756 try to reset algorithm.
+20240920_142708.756 reset algorithm is not complete yet.
+20240920_142708.756 reset algorithm completed.
+20240920_142708.800 back end init.  first cam0 observation count: 94
+20240920_142708.801 Numerical failure in backsubstitution.
+20240920_142708.801 begin reset algorithm. converged=2, cam0_num_observations=94, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.801 try to reset algorithm.
+20240920_142708.841 Numerical failure in backsubstitution.
+20240920_142708.841 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.841 try to reset algorithm.
+20240920_142708.841 reset algorithm is not complete yet.
+20240920_142708.842 reset algorithm completed.
+20240920_142708.885 back end init.  first cam0 observation count: 95
+20240920_142708.886 Numerical failure in backsubstitution.
+20240920_142708.886 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.886 try to reset algorithm.
+20240920_142708.922 Numerical failure in backsubstitution.
+20240920_142708.922 begin reset algorithm. converged=2, cam0_num_observations=94, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.922 try to reset algorithm.
+20240920_142708.922 reset algorithm is not complete yet.
+20240920_142708.922 reset algorithm completed.
+20240920_142708.963 back end init.  first cam0 observation count: 92
+20240920_142708.964 Numerical failure in backsubstitution.
+20240920_142708.964 begin reset algorithm. converged=2, cam0_num_observations=92, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142708.964 try to reset algorithm.
+20240920_142709.001 Numerical failure in backsubstitution.
+20240920_142709.001 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.002 try to reset algorithm.
+20240920_142709.002 reset algorithm is not complete yet.
+20240920_142709.002 reset algorithm completed.
+20240920_142709.044 back end init.  first cam0 observation count: 93
+20240920_142709.044 Numerical failure in backsubstitution.
+20240920_142709.044 begin reset algorithm. converged=2, cam0_num_observations=93, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.044 try to reset algorithm.
+20240920_142709.085 Numerical failure in backsubstitution.
+20240920_142709.085 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.085 try to reset algorithm.
+20240920_142709.085 reset algorithm is not complete yet.
+20240920_142709.085 reset algorithm completed.
+20240920_142709.126 back end init.  first cam0 observation count: 91
+20240920_142709.127 Numerical failure in backsubstitution.
+20240920_142709.127 begin reset algorithm. converged=2, cam0_num_observations=91, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.127 try to reset algorithm.
+20240920_142709.162 Numerical failure in backsubstitution.
+20240920_142709.162 begin reset algorithm. converged=2, cam0_num_observations=93, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.162 try to reset algorithm.
+20240920_142709.162 reset algorithm is not complete yet.
+20240920_142709.162 reset algorithm completed.
+20240920_142709.206 back end init.  first cam0 observation count: 93
+20240920_142709.206 Numerical failure in backsubstitution.
+20240920_142709.207 begin reset algorithm. converged=2, cam0_num_observations=93, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.207 try to reset algorithm.
+20240920_142709.243 Numerical failure in backsubstitution.
+20240920_142709.243 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.244 try to reset algorithm.
+20240920_142709.244 reset algorithm is not complete yet.
+20240920_142709.244 reset algorithm completed.
+20240920_142709.290 back end init.  first cam0 observation count: 97
+20240920_142709.291 Numerical failure in backsubstitution.
+20240920_142709.291 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.291 try to reset algorithm.
+20240920_142709.325 Numerical failure in backsubstitution.
+20240920_142709.325 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.325 try to reset algorithm.
+20240920_142709.325 reset algorithm is not complete yet.
+20240920_142709.325 reset algorithm completed.
+20240920_142709.368 back end init.  first cam0 observation count: 96
+20240920_142709.369 Numerical failure in backsubstitution.
+20240920_142709.369 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.369 try to reset algorithm.
+20240920_142709.406 Numerical failure in backsubstitution.
+20240920_142709.406 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.406 try to reset algorithm.
+20240920_142709.406 reset algorithm is not complete yet.
+20240920_142709.406 reset algorithm completed.
+20240920_142709.449 back end init.  first cam0 observation count: 95
+20240920_142709.449 Numerical failure in backsubstitution.
+20240920_142709.449 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.449 try to reset algorithm.
+20240920_142709.490 Numerical failure in backsubstitution.
+20240920_142709.490 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.490 try to reset algorithm.
+20240920_142709.490 reset algorithm is not complete yet.
+20240920_142709.490 reset algorithm completed.
+20240920_142709.530 back end init.  first cam0 observation count: 96
+20240920_142709.531 Numerical failure in backsubstitution.
+20240920_142709.531 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.531 try to reset algorithm.
+20240920_142709.567 Numerical failure in backsubstitution.
+20240920_142709.568 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.568 try to reset algorithm.
+20240920_142709.568 reset algorithm is not complete yet.
+20240920_142709.568 reset algorithm completed.
+20240920_142709.611 back end init.  first cam0 observation count: 93
+20240920_142709.612 Numerical failure in backsubstitution.
+20240920_142709.612 begin reset algorithm. converged=2, cam0_num_observations=93, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.612 try to reset algorithm.
+20240920_142709.650 Numerical failure in backsubstitution.
+20240920_142709.650 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.650 try to reset algorithm.
+20240920_142709.650 reset algorithm is not complete yet.
+20240920_142709.650 reset algorithm completed.
+20240920_142709.695 back end init.  first cam0 observation count: 91
+20240920_142709.696 Numerical failure in backsubstitution.
+20240920_142709.696 begin reset algorithm. converged=2, cam0_num_observations=91, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.696 try to reset algorithm.
+20240920_142709.729 Numerical failure in backsubstitution.
+20240920_142709.730 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.730 try to reset algorithm.
+20240920_142709.730 reset algorithm is not complete yet.
+20240920_142709.730 reset algorithm completed.
+20240920_142709.774 back end init.  first cam0 observation count: 95
+20240920_142709.774 Numerical failure in backsubstitution.
+20240920_142709.774 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.774 try to reset algorithm.
+20240920_142709.810 Numerical failure in backsubstitution.
+20240920_142709.810 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.810 try to reset algorithm.
+20240920_142709.811 reset algorithm is not complete yet.
+20240920_142709.811 reset algorithm completed.
+20240920_142709.855 back end init.  first cam0 observation count: 93
+20240920_142709.856 Numerical failure in backsubstitution.
+20240920_142709.856 begin reset algorithm. converged=2, cam0_num_observations=93, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.856 try to reset algorithm.
+20240920_142709.896 Numerical failure in backsubstitution.
+20240920_142709.896 begin reset algorithm. converged=2, cam0_num_observations=92, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.896 try to reset algorithm.
+20240920_142709.896 reset algorithm is not complete yet.
+20240920_142709.896 reset algorithm completed.
+20240920_142709.935 back end init.  first cam0 observation count: 88
+20240920_142709.936 Numerical failure in backsubstitution.
+20240920_142709.936 begin reset algorithm. converged=2, cam0_num_observations=88, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.936 try to reset algorithm.
+20240920_142709.973 Numerical failure in backsubstitution.
+20240920_142709.974 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142709.974 try to reset algorithm.
+20240920_142709.974 reset algorithm is not complete yet.
+20240920_142709.974 reset algorithm completed.
+20240920_142710.017 back end init.  first cam0 observation count: 93
+20240920_142710.018 Numerical failure in backsubstitution.
+20240920_142710.018 begin reset algorithm. converged=2, cam0_num_observations=93, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.018 try to reset algorithm.
+20240920_142710.056 Numerical failure in backsubstitution.
+20240920_142710.056 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.056 try to reset algorithm.
+20240920_142710.057 reset algorithm is not complete yet.
+20240920_142710.057 reset algorithm completed.
+20240920_142710.101 back end init.  first cam0 observation count: 89
+20240920_142710.102 Numerical failure in backsubstitution.
+20240920_142710.102 begin reset algorithm. converged=2, cam0_num_observations=89, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.102 try to reset algorithm.
+20240920_142710.136 Numerical failure in backsubstitution.
+20240920_142710.136 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.137 try to reset algorithm.
+20240920_142710.137 reset algorithm is not complete yet.
+20240920_142710.137 reset algorithm completed.
+20240920_142710.179 back end init.  first cam0 observation count: 94
+20240920_142710.180 Numerical failure in backsubstitution.
+20240920_142710.180 begin reset algorithm. converged=2, cam0_num_observations=94, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.180 try to reset algorithm.
+20240920_142710.218 Numerical failure in backsubstitution.
+20240920_142710.218 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.218 try to reset algorithm.
+20240920_142710.218 reset algorithm is not complete yet.
+20240920_142710.218 reset algorithm completed.
+20240920_142710.261 back end init.  first cam0 observation count: 99
+20240920_142710.261 Numerical failure in backsubstitution.
+20240920_142710.261 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.262 try to reset algorithm.
+20240920_142710.301 Numerical failure in backsubstitution.
+20240920_142710.301 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.301 try to reset algorithm.
+20240920_142710.301 reset algorithm is not complete yet.
+20240920_142710.302 reset algorithm completed.
+20240920_142710.342 back end init.  first cam0 observation count: 96
+20240920_142710.342 Numerical failure in backsubstitution.
+20240920_142710.342 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.342 try to reset algorithm.
+20240920_142710.380 Numerical failure in backsubstitution.
+20240920_142710.380 begin reset algorithm. converged=2, cam0_num_observations=105, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.380 try to reset algorithm.
+20240920_142710.380 reset algorithm is not complete yet.
+20240920_142710.380 reset algorithm completed.
+20240920_142710.423 back end init.  first cam0 observation count: 98
+20240920_142710.424 Numerical failure in backsubstitution.
+20240920_142710.424 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.424 try to reset algorithm.
+20240920_142710.461 Numerical failure in backsubstitution.
+20240920_142710.461 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.461 try to reset algorithm.
+20240920_142710.461 reset algorithm is not complete yet.
+20240920_142710.461 reset algorithm completed.
+20240920_142710.506 back end init.  first cam0 observation count: 96
+20240920_142710.507 Numerical failure in backsubstitution.
+20240920_142710.507 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.507 try to reset algorithm.
+20240920_142710.542 Numerical failure in backsubstitution.
+20240920_142710.542 begin reset algorithm. converged=2, cam0_num_observations=95, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.542 try to reset algorithm.
+20240920_142710.542 reset algorithm is not complete yet.
+20240920_142710.542 reset algorithm completed.
+20240920_142710.585 back end init.  first cam0 observation count: 96
+20240920_142710.585 Numerical failure in backsubstitution.
+20240920_142710.585 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.585 try to reset algorithm.
+20240920_142710.622 Numerical failure in backsubstitution.
+20240920_142710.622 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.622 try to reset algorithm.
+20240920_142710.622 reset algorithm is not complete yet.
+20240920_142710.622 reset algorithm completed.
+20240920_142710.665 back end init.  first cam0 observation count: 96
+20240920_142710.665 Numerical failure in backsubstitution.
+20240920_142710.665 begin reset algorithm. converged=2, cam0_num_observations=96, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.665 try to reset algorithm.
+20240920_142710.707 Numerical failure in backsubstitution.
+20240920_142710.707 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.707 try to reset algorithm.
+20240920_142710.707 reset algorithm is not complete yet.
+20240920_142710.707 reset algorithm completed.
+20240920_142710.746 back end init.  first cam0 observation count: 98
+20240920_142710.747 Numerical failure in backsubstitution.
+20240920_142710.747 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.747 try to reset algorithm.
+20240920_142710.783 Numerical failure in backsubstitution.
+20240920_142710.783 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.783 try to reset algorithm.
+20240920_142710.783 reset algorithm is not complete yet.
+20240920_142710.783 reset algorithm completed.
+20240920_142710.827 back end init.  first cam0 observation count: 97
+20240920_142710.828 Numerical failure in backsubstitution.
+20240920_142710.828 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.828 try to reset algorithm.
+20240920_142710.864 Numerical failure in backsubstitution.
+20240920_142710.864 begin reset algorithm. converged=2, cam0_num_observations=98, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.864 try to reset algorithm.
+20240920_142710.864 reset algorithm is not complete yet.
+20240920_142710.864 reset algorithm completed.
+20240920_142710.912 back end init.  first cam0 observation count: 99
+20240920_142710.912 Numerical failure in backsubstitution.
+20240920_142710.912 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.913 try to reset algorithm.
+20240920_142710.945 Numerical failure in backsubstitution.
+20240920_142710.945 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.945 try to reset algorithm.
+20240920_142710.945 reset algorithm is not complete yet.
+20240920_142710.945 reset algorithm completed.
+20240920_142710.989 back end init.  first cam0 observation count: 101
+20240920_142710.990 Numerical failure in backsubstitution.
+20240920_142710.990 begin reset algorithm. converged=2, cam0_num_observations=101, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142710.990 try to reset algorithm.
+20240920_142711.026 Numerical failure in backsubstitution.
+20240920_142711.026 begin reset algorithm. converged=2, cam0_num_observations=101, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142711.026 try to reset algorithm.
+20240920_142711.027 reset algorithm is not complete yet.
+20240920_142711.027 reset algorithm completed.
+20240920_142711.070 back end init.  first cam0 observation count: 99
+20240920_142711.071 Numerical failure in backsubstitution.
+20240920_142711.071 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142711.071 try to reset algorithm.
+20240920_142711.110 Numerical failure in backsubstitution.
+20240920_142711.110 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142711.110 try to reset algorithm.
+20240920_142711.110 reset algorithm is not complete yet.
+20240920_142711.110 reset algorithm completed.
+20240920_142711.153 back end init.  first cam0 observation count: 99
+20240920_142711.153 Numerical failure in backsubstitution.
+20240920_142711.153 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142711.153 try to reset algorithm.
+20240920_142711.188 Numerical failure in backsubstitution.
+20240920_142711.188 begin reset algorithm. converged=2, cam0_num_observations=101, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142711.188 try to reset algorithm.
+20240920_142711.188 reset algorithm is not complete yet.
+20240920_142711.188 reset algorithm completed.
+20240920_142711.232 back end init.  first cam0 observation count: 99
+20240920_142711.233 Numerical failure in backsubstitution.
+20240920_142711.233 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142711.233 try to reset algorithm.
+20240920_142711.271 Numerical failure in backsubstitution.
+20240920_142711.271 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142711.271 try to reset algorithm.
+20240920_142711.272 reset algorithm is not complete yet.
+20240920_142711.272 reset algorithm completed.
+20240920_142711.318 back end init.  first cam0 observation count: 100
+20240920_142711.319 Numerical failure in backsubstitution.
+20240920_142711.319 begin reset algorithm. converged=2, cam0_num_observations=100, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142711.319 try to reset algorithm.
+20240920_142711.352 Numerical failure in backsubstitution.
+20240920_142711.352 begin reset algorithm. converged=2, cam0_num_observations=97, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142711.352 try to reset algorithm.
+20240920_142711.352 reset algorithm is not complete yet.
+20240920_142711.353 reset algorithm completed.
+20240920_142711.395 back end init.  first cam0 observation count: 101
+20240920_142711.395 Numerical failure in backsubstitution.
+20240920_142711.395 begin reset algorithm. converged=2, cam0_num_observations=101, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142711.395 try to reset algorithm.
+20240920_142711.432 Numerical failure in backsubstitution.
+20240920_142711.433 begin reset algorithm. converged=2, cam0_num_observations=99, tracked points=0, isBigTranslation=0, UseImuPose=0
+20240920_142711.433 try to reset algorithm.
+20240920_142711.433 reset algorithm is not complete yet.
+20240920_142711.433 reset algorithm completed.
+20240920_142711.477 back end init.  first cam0 observation count: 97
+20240920_142711.478 Numerical failure in backsubstitution.

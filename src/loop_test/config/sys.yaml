@@ -1,0 +1,8 @@
+print_queue: false
+use_imu: 2
+use_vignette_undist: false
+cam_calib_path: /home/lwx/bag/161_calib.json
+#loop closure parameters
+load_previous_pose_graph: true        # load and reuse previous pose graph; load from 'pose_graph_save_path'
+pose_graph_save_path: "/root/lwx_dataset/test_pose_graph/" # save and load path
+add_keyframe_mode: 1            # 0 for close, 1 for open

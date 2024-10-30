@@ -52,6 +52,13 @@ void MatrixMultiplySSE(const float* A, const float* B, float* C) {
 
 int main(int argc, char* argv[])
 {
+    int a[5] = {1,2,3,4,5};
+    // a += 4;
+    int *p_a = a;
+    p_a +=4;
+    std::cout << "p_a[0]=" << p_a[0] << std::endl;
+    return 0;
+
     Matrix<float, 4, 4> mat1;// = Matrix<int, 4, 4>::Random();
     Matrix<float, 4, 4> mat2;// = Matrix<int, 4, 4>::Random();
 
@@ -72,6 +79,10 @@ int main(int argc, char* argv[])
 
     float* A = mat1.data();
     float* B = mat2.data();
+
+    std::cout << "1 mat1(0, 0)=" << mat1(0, 0) << std::endl;
+    A[0] = 100;
+    std::cout << "2 mat1(0, 0)=" << mat1(0, 0) << std::endl;
 
     for(int i = 0; i < 16; i++)
     {
