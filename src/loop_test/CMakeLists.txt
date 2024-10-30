@@ -6,7 +6,7 @@ add_compile_options(-Wextra -Wpedantic) # -Wall : print warning
 
 # set(CMAKE_BUILD_TYPE Release)
 
-option(DEBUG_ASAN "AddressSanitizer, Debug for memory leak" ON) # ON or OFF
+option(DEBUG_ASAN "AddressSanitizer, Debug for memory leak" OFF) # ON or OFF
 option(DEBUG_TSAN "ThreadSanitizer, Debug for data race" OFF) # ON or OFF
 # 2024-08-29
 ############# Compile flags ###############

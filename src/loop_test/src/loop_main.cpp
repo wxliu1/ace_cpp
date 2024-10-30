@@ -1,5 +1,7 @@
 #include "loop.h"
 
+#include <malloc.h>
+
 #define buffer_size 30
 #define SKIP_DISTANCE 0.1
 #define SKIP_ANGLE 10
@@ -78,8 +80,8 @@ void LoopClosure::Stop()
 
 void LoopClosure::resetVocabulary()
 {
-    db.clear();
-    // db.clearAll();
+    // db.clear();
+    db.clearAll();
     delete voc;
     voc = nullptr;
 }
@@ -115,7 +117,9 @@ void LoopClosure::Reset()
     }
     keyframelist.clear();
     m_keyframelist.unlock();
+    malloc_trim(0);
 
+    if(voc != nullptr)
     resetVocabulary();
 
     m_process.unlock();
@@ -600,6 +604,7 @@ void LoopClosure::loadKeyFrame(KeyFrame *cur_kf)
     cur_kf->index = global_index;
     global_index++;
 
+    if(voc != nullptr)
     addKeyFrameIntoVoc(cur_kf);
 
     m_keyframelist.lock();

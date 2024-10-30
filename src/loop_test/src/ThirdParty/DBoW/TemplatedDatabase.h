@@ -25,6 +25,8 @@
 
 #include "../DUtils/DUtils.h"
 
+#include <malloc.h>
+
 namespace DBoW2 {
 
 // For query functions
@@ -563,6 +565,9 @@ inline void TemplatedDatabase<TDescriptor, F>::clearAll()
   m_dfile.resize(0);
   m_dBowfile.resize(0);
   m_nentries = 0;
+
+  delete m_voc;
+  m_voc = nullptr;
 }
 
 // --------------------------------------------------------------------------
