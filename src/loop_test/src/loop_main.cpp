@@ -117,6 +117,14 @@ void LoopClosure::Reset()
     }
     keyframelist.clear();
     m_keyframelist.unlock();
+    /*
+malloc_trim 是 GNU C 库（glibc）中的一个函数，主要用于释放不再使用的内存回系统。它的作用是：
+
+释放空闲内存：当程序在运行过程中分配了大量的内存后，又释放了一些内存，这些内存可能不会立即归还给操作系统，而是保存在堆中，以备未来分配。
+malloc_trim 函数可以强制将这些不再需要的内存归还给操作系统，减少程序的内存占用。
+
+控制内存碎片：在频繁分配和释放内存的场景中，堆中会产生很多小碎片，malloc_trim 通过回收空闲的内存块，有助于减小内存碎片，提高内存的利用效率。
+     */
     malloc_trim(0);
 
     if(voc != nullptr)
