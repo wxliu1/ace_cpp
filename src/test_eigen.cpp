@@ -6,6 +6,31 @@
 
 int main(int argc, char**argv)
 {
+  Eigen::Vector3d grad_sum_se2(0, 0, 0);
+  Eigen::Matrix<double, 4, 3> J_se2;
+  J_se2 << 1, 2, 3,
+           4, 5, 6,
+           7, 8, 9,
+           10, 11, 12;
+
+  std::cout << "grad_sum_se2=" << grad_sum_se2.transpose() << std::endl;
+  std::cout << "J_se2=\n" << J_se2 << std::endl;
+  std::cout << "J_se2.row(2)=" << J_se2.row(2) << std::endl;
+
+  for(int i = 0; i < 4; i++)
+  {
+    grad_sum_se2 += J_se2.row(i);
+  }
+  std::cout << "grad_sum_se2=" << grad_sum_se2.transpose() << std::endl;
+
+  return 0;
+
+
+  // test 2
+  Eigen::Vector3d acc;
+  std::cout << "acc=" << acc.transpose() << std::endl;
+
+  // test 3
     int row = 4;  
     int col = 5;  
     Eigen::MatrixXd matrixXd(row, col);  
